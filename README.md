@@ -34,5 +34,8 @@ I have a passion for solving problems that can be solved with software solutions
 
 ### Badges
 <b>My GitHub Stats</b>
+
 <a
-href="http://www.github.com/markpausanos"><img src="https://github-readme-stats.vercel.app/api?username=markpausanos&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ef4444&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="markpausanos's GitHub stats" /></a><a href="https://github.com/markpausanos" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=markpausanos&langs_count=10&title_color=ffffff&text_color=ef4444&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+href="http://www.github.com/markpausanos"><img src="https://github-readme-stats.vercel.app/api?username=markpausanos&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ef4444&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="markpausanos's GitHub stats" /></a>
+
+<a href="https://github.com/markpausanos" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=markpausanos&langs_count=10&title_color=ffffff&text_color=ef4444&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
