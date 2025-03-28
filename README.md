@@ -6,7 +6,8 @@ Full Stack Developer
 
 I have a passion for solving problems that can be solved with software solutions.
 
-*   ✉️  You can contact me at [work.markpausanos@gmail.com](mailto:work.markpausanos@gmail.com)
+*   ✉️  You can contact me at [contact@azalithen.com](mailto:contact@azalithen.com)
+*   🌐  Visit my website at [dev.azalithen.com](dev.azalithen.com)
 
 ### Skills 
 <p align="left">
