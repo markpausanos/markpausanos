@@ -32,7 +32,3 @@ I have a passion for solving problems that can be solved with software solutions
   </picture>
   </a>
 </p>
-
-### Badges
-
-<a href="https://github.com/markpausanos" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=markpausanos&langs_count=10&title_color=ffffff&text_color=ef4444&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
